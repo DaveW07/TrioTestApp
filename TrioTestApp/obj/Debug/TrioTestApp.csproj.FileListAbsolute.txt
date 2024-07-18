@@ -1,0 +1,10 @@
+C:\Software\TrioTestApp\TrioTestApp\TrioTestApp\bin\Debug\TrioTestApp.exe.config
+C:\Software\TrioTestApp\TrioTestApp\TrioTestApp\bin\Debug\TrioTestApp.exe
+C:\Software\TrioTestApp\TrioTestApp\TrioTestApp\bin\Debug\TrioTestApp.pdb
+C:\Software\TrioTestApp\TrioTestApp\TrioTestApp\obj\Debug\TrioTestApp.Form1.resources
+C:\Software\TrioTestApp\TrioTestApp\TrioTestApp\obj\Debug\TrioTestApp.Properties.Resources.resources
+C:\Software\TrioTestApp\TrioTestApp\TrioTestApp\obj\Debug\TrioTestApp.csproj.GenerateResource.cache
+C:\Software\TrioTestApp\TrioTestApp\TrioTestApp\obj\Debug\TrioTestApp.csproj.CoreCompileInputs.cache
+C:\Software\TrioTestApp\TrioTestApp\TrioTestApp\obj\Debug\TrioTestApp.exe
+C:\Software\TrioTestApp\TrioTestApp\TrioTestApp\obj\Debug\TrioTestApp.pdb
+C:\Software\TrioTestApp\TrioTestApp\TrioTestApp\obj\Debug\TrioTestApp.csproj.AssemblyReference.cache
