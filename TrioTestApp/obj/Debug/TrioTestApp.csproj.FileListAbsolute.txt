@@ -8,3 +8,13 @@ C:\Software\TrioTestApp\TrioTestApp\TrioTestApp\obj\Debug\TrioTestApp.csproj.Cor
 C:\Software\TrioTestApp\TrioTestApp\TrioTestApp\obj\Debug\TrioTestApp.exe
 C:\Software\TrioTestApp\TrioTestApp\TrioTestApp\obj\Debug\TrioTestApp.pdb
 C:\Software\TrioTestApp\TrioTestApp\TrioTestApp\obj\Debug\TrioTestApp.csproj.AssemblyReference.cache
+C:\Users\david.wilkinson\Downloads\TrioTestApp\TrioTestApp\bin\Debug\TrioTestApp.exe.config
+C:\Users\david.wilkinson\Downloads\TrioTestApp\TrioTestApp\bin\Debug\TrioTestApp.exe
+C:\Users\david.wilkinson\Downloads\TrioTestApp\TrioTestApp\bin\Debug\TrioTestApp.pdb
+C:\Users\david.wilkinson\Downloads\TrioTestApp\TrioTestApp\obj\Debug\TrioTestApp.csproj.AssemblyReference.cache
+C:\Users\david.wilkinson\Downloads\TrioTestApp\TrioTestApp\obj\Debug\TrioTestApp.Form1.resources
+C:\Users\david.wilkinson\Downloads\TrioTestApp\TrioTestApp\obj\Debug\TrioTestApp.Properties.Resources.resources
+C:\Users\david.wilkinson\Downloads\TrioTestApp\TrioTestApp\obj\Debug\TrioTestApp.csproj.GenerateResource.cache
+C:\Users\david.wilkinson\Downloads\TrioTestApp\TrioTestApp\obj\Debug\TrioTestApp.csproj.CoreCompileInputs.cache
+C:\Users\david.wilkinson\Downloads\TrioTestApp\TrioTestApp\obj\Debug\TrioTestApp.exe
+C:\Users\david.wilkinson\Downloads\TrioTestApp\TrioTestApp\obj\Debug\TrioTestApp.pdb

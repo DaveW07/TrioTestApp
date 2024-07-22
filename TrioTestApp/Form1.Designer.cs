@@ -34,7 +34,7 @@ namespace TrioTestApp
             // 
             // btnConnect
             // 
-            this.btnConnect.Location = new System.Drawing.Point(161, 136);
+            this.btnConnect.Location = new System.Drawing.Point(180, 116);
             this.btnConnect.Name = "btnConnect";
             this.btnConnect.Size = new System.Drawing.Size(117, 40);
             this.btnConnect.TabIndex = 0;
