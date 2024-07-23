@@ -21,6 +21,7 @@ namespace TrioTestApp
         private void btnConnect_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Trio Connected", "Trio Connection", MessageBoxButtons.OK);
+            lblConnected.Text = "Connected";
         }
     }
 }

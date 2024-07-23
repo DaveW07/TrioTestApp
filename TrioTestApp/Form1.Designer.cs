@@ -30,12 +30,13 @@ namespace TrioTestApp
         private void InitializeComponent()
         {
             this.btnConnect = new System.Windows.Forms.Button();
+            this.lblConnected = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // btnConnect
             // 
             this.btnConnect.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
-            this.btnConnect.Location = new System.Drawing.Point(180, 116);
+            this.btnConnect.Location = new System.Drawing.Point(21, 12);
             this.btnConnect.Name = "btnConnect";
             this.btnConnect.Size = new System.Drawing.Size(117, 40);
             this.btnConnect.TabIndex = 0;
@@ -43,21 +44,34 @@ namespace TrioTestApp
             this.btnConnect.UseVisualStyleBackColor = false;
             this.btnConnect.Click += new System.EventHandler(this.btnConnect_Click);
             // 
+            // lblConnected
+            // 
+            this.lblConnected.AutoSize = true;
+            this.lblConnected.BackColor = System.Drawing.Color.Transparent;
+            this.lblConnected.Location = new System.Drawing.Point(192, 26);
+            this.lblConnected.Name = "lblConnected";
+            this.lblConnected.Size = new System.Drawing.Size(79, 13);
+            this.lblConnected.TabIndex = 1;
+            this.lblConnected.Text = "Not Connected";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(494, 293);
+            this.ClientSize = new System.Drawing.Size(494, 217);
+            this.Controls.Add(this.lblConnected);
             this.Controls.Add(this.btnConnect);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Trio Test";
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
         #endregion
 
         private System.Windows.Forms.Button btnConnect;
+        private System.Windows.Forms.Label lblConnected;
     }
 }
 
