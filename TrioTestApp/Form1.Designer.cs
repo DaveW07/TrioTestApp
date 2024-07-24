@@ -48,9 +48,11 @@ namespace TrioTestApp
             // 
             this.lblConnected.AutoSize = true;
             this.lblConnected.BackColor = System.Drawing.Color.Transparent;
-            this.lblConnected.Location = new System.Drawing.Point(192, 26);
+            this.lblConnected.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblConnected.ForeColor = System.Drawing.Color.Red;
+            this.lblConnected.Location = new System.Drawing.Point(173, 26);
             this.lblConnected.Name = "lblConnected";
-            this.lblConnected.Size = new System.Drawing.Size(79, 13);
+            this.lblConnected.Size = new System.Drawing.Size(102, 16);
             this.lblConnected.TabIndex = 1;
             this.lblConnected.Text = "Not Connected";
             // 
