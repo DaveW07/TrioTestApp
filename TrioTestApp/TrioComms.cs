@@ -20,16 +20,16 @@ namespace TrioTestApp
         /// </summary>
         /// <param name="motionController">The motion controller.</param>
         /// <param name="etherCATNode">The ether cat node.</param>
-        public TrioComms(TrioPC motionController, int etherCATNode)
+        public TrioComms(int etherCATNode)
         {
-            _motionController = motionController;
+            _motionController = new TrioPC();
             _etherCATNode = etherCATNode;
             _axisID = (short)_etherCATNode;
         }
 
         public bool Connect()
         {
-           return _motionController.Open(1, 1);
+            return _motionController.Open(1, 1);
         }
 
 }
