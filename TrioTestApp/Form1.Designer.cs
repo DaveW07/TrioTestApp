@@ -87,7 +87,7 @@ namespace TrioTestApp
             // lblprogName
             // 
             this.lblprogName.AutoSize = true;
-            this.lblprogName.Location = new System.Drawing.Point(31, 173);
+            this.lblprogName.Location = new System.Drawing.Point(325, 122);
             this.lblprogName.Name = "lblprogName";
             this.lblprogName.Size = new System.Drawing.Size(70, 13);
             this.lblprogName.TabIndex = 4;
