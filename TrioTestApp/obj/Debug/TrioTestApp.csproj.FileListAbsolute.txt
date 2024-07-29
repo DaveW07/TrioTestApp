@@ -18,3 +18,13 @@ C:\Users\david.wilkinson\Downloads\TrioTestApp\TrioTestApp\obj\Debug\TrioTestApp
 C:\Users\david.wilkinson\Downloads\TrioTestApp\TrioTestApp\obj\Debug\TrioTestApp.csproj.CoreCompileInputs.cache
 C:\Users\david.wilkinson\Downloads\TrioTestApp\TrioTestApp\obj\Debug\TrioTestApp.exe
 C:\Users\david.wilkinson\Downloads\TrioTestApp\TrioTestApp\obj\Debug\TrioTestApp.pdb
+D:\GitRepo\TrioTestApp\TrioTestApp\bin\Debug\TrioTestApp.exe.config
+D:\GitRepo\TrioTestApp\TrioTestApp\bin\Debug\TrioTestApp.exe
+D:\GitRepo\TrioTestApp\TrioTestApp\bin\Debug\TrioTestApp.pdb
+D:\GitRepo\TrioTestApp\TrioTestApp\obj\Debug\TrioTestApp.csproj.AssemblyReference.cache
+D:\GitRepo\TrioTestApp\TrioTestApp\obj\Debug\TrioTestApp.Form1.resources
+D:\GitRepo\TrioTestApp\TrioTestApp\obj\Debug\TrioTestApp.Properties.Resources.resources
+D:\GitRepo\TrioTestApp\TrioTestApp\obj\Debug\TrioTestApp.csproj.GenerateResource.cache
+D:\GitRepo\TrioTestApp\TrioTestApp\obj\Debug\TrioTestApp.csproj.CoreCompileInputs.cache
+D:\GitRepo\TrioTestApp\TrioTestApp\obj\Debug\TrioTestApp.exe
+D:\GitRepo\TrioTestApp\TrioTestApp\obj\Debug\TrioTestApp.pdb
