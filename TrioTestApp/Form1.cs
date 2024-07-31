@@ -21,7 +21,7 @@ namespace TrioTestApp
 
         private void btnConnect_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Trio Connected", "Trio Connection", MessageBoxButtons.OK);
+            //# MessageBox.Show("Trio Connected", "Trio Connection", MessageBoxButtons.OK)
             lblConnected.Text = "Connected";
             _TrioConnected = true;
         }
@@ -45,6 +45,21 @@ namespace TrioTestApp
         {
             lblprogName.Text = "Running: Idle";
             progTimer.Enabled = false;
+        }
+
+        private void btnDisconnect_Click(object sender, EventArgs e)
+        {
+            if (_TrioConnected && !progTimer.Enabled)
+            {
+                lblConnected.Text = "Not Connected";
+                _TrioConnected = false;
+            }
+        }
+
+        private void btnExit_Click(object sender, EventArgs e)
+        {
+            _TrioConnected = false;
+            Application.Exit();
         }
     }
 }
