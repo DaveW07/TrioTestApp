@@ -118,7 +118,7 @@ namespace TrioTestApp
             // 
             // btnExit
             // 
-            this.btnExit.BackColor = System.Drawing.Color.Red;
+            this.btnExit.BackColor = System.Drawing.Color.White;
             this.btnExit.Location = new System.Drawing.Point(436, 209);
             this.btnExit.Name = "btnExit";
             this.btnExit.Size = new System.Drawing.Size(129, 37);
